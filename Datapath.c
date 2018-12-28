@@ -1,6 +1,4 @@
 // Lawrence O'Connor-Emanuel
-// Lisa Braganca
-// Cameron Carstens
 // CDA 3103C
 
 #include "spimcore.h"
